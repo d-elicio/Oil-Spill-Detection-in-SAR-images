@@ -16,10 +16,10 @@ while choice~=2
 extension_img='*.jpg';
 extension_labels='*.png';
 
-imagesDir = 'C:\Users\Domenico\Desktop\Università\1 ANNO\1 semestre\IMAGE PROCESSING\PROGETTO IMG PROCESSING\Oil Spill Detection Dataset\train\images';
-landImagesDir='C:\Users\Domenico\Desktop\Università\1 ANNO\1 semestre\IMAGE PROCESSING\PROGETTO IMG PROCESSING\Oil Spill Detection Dataset\train\images_with_land';
-labelsDir = 'C:\Users\Domenico\Desktop\Università\1 ANNO\1 semestre\IMAGE PROCESSING\PROGETTO IMG PROCESSING\Oil Spill Detection Dataset\train\labels';
-landLabelsImagesDir='C:\Users\Domenico\Desktop\Università\1 ANNO\1 semestre\IMAGE PROCESSING\PROGETTO IMG PROCESSING\Oil Spill Detection Dataset\train\labels_with_land';
+imagesDir = 'C:\Users\Oil Spill Detection Dataset\train\images';
+landImagesDir='C:\Users\Oil Spill Detection Dataset\train\images_with_land';
+labelsDir = 'C:\Users\Oil Spill Detection Dataset\train\labels';
+landLabelsImagesDir='C:\Users\Oil Spill Detection Dataset\train\labels_with_land';
 
 imagesDircontent=dir(fullfile(imagesDir,extension_img));
 landImagesDircontent=dir(fullfile(landImagesDir,extension_img));
