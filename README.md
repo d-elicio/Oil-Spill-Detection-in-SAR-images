@@ -12,7 +12,7 @@ techniques and algorithms for oil spill detection on SAR images
 I'm a computer science Master's Degree student and this is one of my university project. 
 See my other projects here on [GitHub](https://github.com/d-elicio)!
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://d-elicio.github.io)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/domenico-elicio/)
 
 
